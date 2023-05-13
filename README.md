@@ -1,3 +1,3 @@
-## Stock photoes (infinite scrolling)
+# [Live Demo](https://stock-infinite-scrolling.netlify.app)
 
-- Live View: https://stock-infinite-scrolling.netlify.app
+# Stock photoes (infinite scrolling)
